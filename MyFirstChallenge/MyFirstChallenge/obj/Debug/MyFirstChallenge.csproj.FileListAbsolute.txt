@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll.config
+C:\Users\Student\source\repos\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll
+C:\Users\Student\source\repos\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.pdb
+C:\Users\Student\source\repos\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\source\repos\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\source\repos\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Student\source\repos\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.dll
+C:\Users\Student\source\repos\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.pdb
