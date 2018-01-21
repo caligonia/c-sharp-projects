@@ -1,0 +1,9 @@
+c:\users\student\source\repos\CS-ASP_ChallengeFirstPapaBobsWebsite\CS-ASP_ChallengeFirstPapaBobsWebsite\bin\CS-ASP_ChallengeFirstPapaBobsWebsite.dll.config
+c:\users\student\source\repos\CS-ASP_ChallengeFirstPapaBobsWebsite\CS-ASP_ChallengeFirstPapaBobsWebsite\bin\CS-ASP_ChallengeFirstPapaBobsWebsite.dll
+c:\users\student\source\repos\CS-ASP_ChallengeFirstPapaBobsWebsite\CS-ASP_ChallengeFirstPapaBobsWebsite\bin\CS-ASP_ChallengeFirstPapaBobsWebsite.pdb
+c:\users\student\source\repos\CS-ASP_ChallengeFirstPapaBobsWebsite\CS-ASP_ChallengeFirstPapaBobsWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\source\repos\CS-ASP_ChallengeFirstPapaBobsWebsite\CS-ASP_ChallengeFirstPapaBobsWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\source\repos\CS-ASP_ChallengeFirstPapaBobsWebsite\CS-ASP_ChallengeFirstPapaBobsWebsite\obj\Debug\CS-ASP_ChallengeFirstPapaBobsWebsite.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\CS-ASP_ChallengeFirstPapaBobsWebsite\CS-ASP_ChallengeFirstPapaBobsWebsite\obj\Debug\CS-ASP_ChallengeFirstPapaBobsWebsite.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\CS-ASP_ChallengeFirstPapaBobsWebsite\CS-ASP_ChallengeFirstPapaBobsWebsite\obj\Debug\CS-ASP_ChallengeFirstPapaBobsWebsite.dll
+c:\users\student\source\repos\CS-ASP_ChallengeFirstPapaBobsWebsite\CS-ASP_ChallengeFirstPapaBobsWebsite\obj\Debug\CS-ASP_ChallengeFirstPapaBobsWebsite.pdb

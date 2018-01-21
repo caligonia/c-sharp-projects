@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\CS-ASP_ChallengeDaysBetweenDates\CS-ASP_ChallengeDaysBetweenDates\bin\CS-ASP_ChallengeDaysBetweenDates.dll.config
+C:\Users\Student\source\repos\CS-ASP_ChallengeDaysBetweenDates\CS-ASP_ChallengeDaysBetweenDates\bin\CS-ASP_ChallengeDaysBetweenDates.dll
+C:\Users\Student\source\repos\CS-ASP_ChallengeDaysBetweenDates\CS-ASP_ChallengeDaysBetweenDates\bin\CS-ASP_ChallengeDaysBetweenDates.pdb
+C:\Users\Student\source\repos\CS-ASP_ChallengeDaysBetweenDates\CS-ASP_ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\source\repos\CS-ASP_ChallengeDaysBetweenDates\CS-ASP_ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\source\repos\CS-ASP_ChallengeDaysBetweenDates\CS-ASP_ChallengeDaysBetweenDates\obj\Debug\CS-ASP_ChallengeDaysBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Student\source\repos\CS-ASP_ChallengeDaysBetweenDates\CS-ASP_ChallengeDaysBetweenDates\obj\Debug\CS-ASP_ChallengeDaysBetweenDates.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CS-ASP_ChallengeDaysBetweenDates\CS-ASP_ChallengeDaysBetweenDates\obj\Debug\CS-ASP_ChallengeDaysBetweenDates.dll
+C:\Users\Student\source\repos\CS-ASP_ChallengeDaysBetweenDates\CS-ASP_ChallengeDaysBetweenDates\obj\Debug\CS-ASP_ChallengeDaysBetweenDates.pdb
