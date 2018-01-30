@@ -1,0 +1,13 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.dll.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.pdb
+C:\Users\Student\source\repos\c-sharp-projects\Code Extracted\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.dll.config
+C:\Users\Student\source\repos\c-sharp-projects\Code Extracted\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.dll
+C:\Users\Student\source\repos\c-sharp-projects\Code Extracted\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.pdb
+C:\Users\Student\source\repos\c-sharp-projects\Code Extracted\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.csprojResolveAssemblyReference.cache
+C:\Users\Student\source\repos\c-sharp-projects\Code Extracted\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\c-sharp-projects\Code Extracted\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.dll
+C:\Users\Student\source\repos\c-sharp-projects\Code Extracted\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.pdb
